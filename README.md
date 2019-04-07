@@ -27,6 +27,12 @@
 - 子薇
 - 晴天老猪
 
+### 作业进度
+[20190405-IA004在线IT培训全局认识第二次线上讨论会议纪要](https://github.com/acmilanhong/IA004-OnlineITTraining/wiki/20190405-IA004%E5%9C%A8%E7%BA%BFIT%E5%9F%B9%E8%AE%AD%E5%85%A8%E5%B1%80%E8%AE%A4%E8%AF%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BA%BF%E4%B8%8A%E8%AE%A8%E8%AE%BA%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
+[20190331-IA004在线IT培训全局认识 第一次分工安排](https://github.com/acmilanhong/IA004-OnlineITTraining/wiki/20190331-IA004%E5%9C%A8%E7%BA%BFIT%E5%9F%B9%E8%AE%AD%E5%85%A8%E5%B1%80%E8%AE%A4%E8%AF%86-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%86%E5%B7%A5%E5%AE%89%E6%8E%92)
+[20190327-IA004在线IT培训最小全局认知第一次在线讨论](https://github.com/acmilanhong/IA004-OnlineITTraining/wiki/20190327-IA004%E5%9C%A8%E7%BA%BFIT%E5%9F%B9%E8%AE%AD%E6%9C%80%E5%B0%8F%E5%85%A8%E5%B1%80%E8%AE%A4%E7%9F%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%BA%BF%E8%AE%A8%E8%AE%BA)
+
 ### ChangeLog
+- 2019-4-7  acmilanhong 增加作业进度链接
 - 2019-3-30 acmilanhong 更新小组成员简介；增加“缘起”和“ChangeLog"部分
 - 2019-3-28 acmilanhong 创建文档
